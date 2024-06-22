@@ -1,9 +1,7 @@
-# 45 minutes Before DevOps Interview
+![Yellow Bold Minimal Book Reviews Youtube Thumbnail](https://github.com/saikiranpi/DevOps-interview-Kit/assets/109568252/8a9575b0-5c3f-4bca-b420-c1fcd152ac00)
 
-Table of Contents
-AWS Questions
-DevOps Questions
-Kubernetes Questions
+
+# 45 minutes Before DevOps Interview
 
 AWS Questions
 
