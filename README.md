@@ -6,6 +6,7 @@
 AWS Questions
 
 Q - what is AMI? 
+
 A - AMI is an Amazon machine image mainly contains operating system and configuration files which is mainly used to deploy multi virtual machines, regardless of any AWS region 
 
 Q- what is EC2 instance , and what are the types?
