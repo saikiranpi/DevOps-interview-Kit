@@ -21,7 +21,7 @@ A elastic block storage, instant storage, both comes under block storage itself 
 File storage : elastic file system and then AWS FSx
 Elastic file system is mainly used for Linux operating system. Aws fSx is mainly useful Windows operating system. 
 
-Object stories -S3, glacier. 
+Object Storage -S3, glacier. 
 
 Challenges with instant storage-it’s a temporary storage data will be lost if you stop and start the instance 
 Fixed size and type 
