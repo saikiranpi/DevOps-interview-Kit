@@ -35,7 +35,7 @@ Can be detached attached to others
 
 Q-What are the different types of load balances?
 
-A- Application load balancer works on TP and TPS protocol and network load balancer works on TCP and UDP protocol. Even application load balancer works on TCP protocol, but application load balancer doesn’t support UDP.
+A- Application load balancer works on HTTP and HTTPS protocol and network load balancer works on TCP and UDP protocol. Even application load balancer works on TCP protocol, but application load balancer doesn’t support UDP.
 Because UDP is very efficient protocol when we are using streaming application or online meetings or any sort of streaming things, it is very useful. This is not supported by application load balancer. This is the major difference.
 
 The major disadvantage with the network load balance is HTTP to https direction is not possible and also web application file was not supported.
