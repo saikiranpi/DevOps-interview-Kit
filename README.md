@@ -40,7 +40,7 @@ Because UDP is very efficient protocol when we are using streaming application o
 
 The major disadvantage with the network load balance is HTTP to https direction is not possible and also web application file was not supported.
 
-Q- what are the different types of auto skilling groups we do have?
+Q- what are the different types of auto scaling groups we do have?
 
 A- vertical scaling -increasing resource of existing servers, example T2 micro 2 T2 large needs to stop and start if we have multiple servers and we want to change the size of the instance it is not possible so we choose horizontal scaling example DB servers, file, servers, APP servers for this server, vertical scaling is best suited
 
