@@ -90,11 +90,9 @@ Q- what is elastic beanstalk?
 
 A - elastic beans, stock is the service for deploying and scaling web application and service. Upload your code and elastic bet will automatically handle the deployment from load balance into health monitoring.
 
-
 Q- what is blue green  deployment?
 
-A- we had an application which is currently running and that application had an new updates. So all the traffic will be hit to load balance, so we will direct the traffic to the already existing application. Once testing part is done. Then we will route the traffic to the newly deployed application.
-
+A- We had an application which is currently running and that application had an new updates. So all the traffic will be hit to load balance, so we will direct the traffic to the already existing application. Once testing part is done. Then we will route the traffic to the newly deployed application.
 
 DevOps Questions
 
